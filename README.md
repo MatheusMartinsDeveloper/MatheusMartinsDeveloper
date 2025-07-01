@@ -1,6 +1,6 @@
-# Hello World | I'm Matheus Martins 👋🏻
+# Hello | I'm Matheus Martins 👋🏻
 
-Hello everyone, I'm Matheus Martins, I work in the area of ​​web development, more precisely as Fullstack, I have more proficiency with the Typescript language, but I'm interested in learning new languages.
+## 👋 Hello, welcome! My name is Matheus Martins and I am currently in the process of learning, seeking to evolve every day in the area of ​​software development. I have dedicated myself to studying technologies that involve the use of Typescript. 🧠 I am always exploring new concepts and creating projects to put into practice what I learn. 🎯 My goal is to enter the job market and build a solid career as a developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMartinsDeveloper&include_all_commits=true,prs)
 
